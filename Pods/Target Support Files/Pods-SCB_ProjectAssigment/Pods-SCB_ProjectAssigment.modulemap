@@ -1,0 +1,6 @@
+framework module Pods_SCB_ProjectAssigment {
+  umbrella header "Pods-SCB_ProjectAssigment-umbrella.h"
+
+  export *
+  module * { export * }
+}
